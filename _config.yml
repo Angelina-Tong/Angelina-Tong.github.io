@@ -1,1 +1,5 @@
-
+title: DNA Barcoding
+#logo
+Description: citizen friendly DNA barcoding pipeline
+show_download: true
+theme: jekyll-theme-merlot
