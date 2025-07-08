@@ -1,4 +1,3 @@
-## A Citizen Friendly Springtail Processing Pipeline
 ### Why sequence springtails? 
 test 1
 ### [Materials](https://docs.google.com/spreadsheets/d/1JDUi6u-Q9zlx3uk2XESR0rLhJni3TZ32g9bYmvwadkU/edit?usp=sharing)
